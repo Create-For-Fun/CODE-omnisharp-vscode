@@ -1,0 +1,17 @@
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/PRACH4/CODE-omnisharp-vscode
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "dnf-check-update-sudo-dnf-install-code"]
+	remote = origin
+	merge = refs/heads/dnf-check-update-sudo-dnf-install-code
+[name]
+	name = aloneallso
+	email = prachaya4627@gmail.com
