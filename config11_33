@@ -1,0 +1,26 @@
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/PRACH4/CODE-omnisharp-vscode
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "dnf-check-update-sudo-dnf-install-code"]
+	remote = origin
+	merge = refs/heads/dnf-check-update-sudo-dnf-install-code
+[name]
+	name = aloneallso
+	email = prachaya4627@gmail.com
+[remote "facebook"]
+	url = https://m.facebook.com/profile.php?id=100002499632239
+	fetch = +refs/heads/*:refs/remotes/facebook/*
+[remote "setting account"]
+	url = https://m.facebook.com/settings/?entry_point=bookmark
+	fetch = +refs/heads/*:refs/remotes/setting account/*
+[remote "bookmark"]
+	url = https://m.facebook.com/home.php?soft=bookmarks
+	fetch = +refs/heads/*:refs/remotes/bookmark/*
